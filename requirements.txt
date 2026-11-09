@@ -1,0 +1,31 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# LLM providers
+langchain-groq
+langchain-google-genai
+langchain-nvidia-ai-endpoints
+groq
+google-genai
+
+# UI
+streamlit
+
+# Search tool
+tavily-python
+langchain-tavily
+
+# Web scraping
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Logging / debugging
+rich
